@@ -15,26 +15,6 @@ The project requirements can be viewed [here](https://github.com/microverseinc/c
 - Technologies used: N/A
 - Tested with: - [Rubocop](https://rubocop.org/)
 
-### Prerequisites
-
-N/A
-
-### Setup
-
-N/A
-
-### Install
-
-N/A
-
-### Usage
-
-N/A
-
-### Deployment
-
-N/A
-
 ## Authors
 
 👤 **Victoir Barh**
@@ -58,10 +38,6 @@ Feel free to check the [issues page](https://github.com/Hombre2014/Enumerable).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-N/A
 
 ## 📝 License
 
