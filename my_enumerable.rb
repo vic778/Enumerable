@@ -7,9 +7,19 @@ module MyEnumerable
     result
   end
 
+  def any?(&number)
+    result = false
+    each do |item|
+      result = true if number.call(item)
+    end
+    result
+  end
+
   def filter(&number)
-    result = true
-    each { |item| result << item if number.call(item) }
+    result = []
+    each do |item|
+      result << item if number.call(item)
+    end
     result
   end
 end
