@@ -2,11 +2,11 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> Decoding Morse code characters from an input string..
+> Create your own Enumerable.
 
 ## Project requirements
 
-The project requirements can be viewed [here](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/morse_code.md)
+The project requirements can be viewed [here](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/create_your_own_enumerable.md)
 
 ## Built With
 
@@ -29,7 +29,7 @@ N/A
 
 ### Usage
 
-- run: `ruby decode.rb`
+N/A
 
 ### Deployment
 
@@ -37,23 +37,23 @@ N/A
 
 ## Authors
 
-👤 **Yuriy Chamkoriyski**
-
-- GitHub: [@Hombre2014](https://github.com/Hombre2014)
-- Twitter: [@Chamkoriyski](https://twitter.com/Chamkoriyski)
-- LinkedIn: [axebit](https://linkedin.com/in/axebit)
-
 👤 **Victoir Barh**
 
 - GitHub: [@vic778](https://github.com/vic778)
 - Twitter: [@VictoirBarh](https://twitter.com/VictoirBarh)
 - LinkedIn: [Victoir barherenduba](https://www.linkedin.com/in/victor-emmanuel-barh-a93900200/)
 
+👤 **Yuriy Chamkoriyski**
+
+- GitHub: [@Hombre2014](https://github.com/Hombre2014)
+- Twitter: [@Chamkoriyski](https://twitter.com/Chamkoriyski)
+- LinkedIn: [axebit](https://linkedin.com/in/axebit)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hombre2014/Decode-a-morse-code).
+Feel free to check the [issues page](https://github.com/Hombre2014/Enumerable).
 
 ## Show your support
 
