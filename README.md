@@ -2,11 +2,11 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> Decoding Morse code characters from an input string..
+> Creating a module inside a class and implement a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html).
 
 ## Project requirements
 
-The project requirements can be viewed [here](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/morse_code.md)
+The project requirements can be viewed [here](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/create_your_own_enumerable.md
 
 ## Built With
 
@@ -53,7 +53,7 @@ N/A
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hombre2014/Decode-a-morse-code).
+Feel free to check the [issues page](https://github.com/vic778/Enumerable/issues).
 
 ## Show your support
 
