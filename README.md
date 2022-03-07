@@ -15,39 +15,19 @@ The project requirements can be viewed [here](https://github.com/microverseinc/c
 - Technologies used: N/A
 - Tested with: - [Rubocop](https://rubocop.org/)
 
-### Prerequisites
-
-N/A
-
-### Setup
-
-N/A
-
-### Install
-
-N/A
-
-### Usage
-
-- run: `ruby decode.rb`
-
-### Deployment
-
-N/A
-
 ## Authors
-
-👤 **Yuriy Chamkoriyski**
-
-- GitHub: [@Hombre2014](https://github.com/Hombre2014)
-- Twitter: [@Chamkoriyski](https://twitter.com/Chamkoriyski)
-- LinkedIn: [axebit](https://linkedin.com/in/axebit)
 
 👤 **Victoir Barh**
 
 - GitHub: [@vic778](https://github.com/vic778)
 - Twitter: [@VictoirBarh](https://twitter.com/VictoirBarh)
 - LinkedIn: [Victoir barherenduba](https://www.linkedin.com/in/victor-emmanuel-barh-a93900200/)
+
+👤 **Yuriy Chamkoriyski**
+
+- GitHub: [@Hombre2014](https://github.com/Hombre2014)
+- Twitter: [@Chamkoriyski](https://twitter.com/Chamkoriyski)
+- LinkedIn: [axebit](https://linkedin.com/in/axebit)
 
 ## 🤝 Contributing
 
@@ -58,10 +38,6 @@ Feel free to check the [issues page](https://github.com/vic778/Enumerable/issues
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-N/A
 
 ## 📝 License
 
